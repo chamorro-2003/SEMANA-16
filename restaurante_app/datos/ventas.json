@@ -1,0 +1,47 @@
+[
+  {
+    "venta_id": 1,
+    "usuario_id": "1109876543",
+    "nombre_usuario": "Nayely Martínez",
+    "producto_id": 1,
+    "nombre_producto": "Pizza Familiar Pepperoni",
+    "precio": 12.5,
+    "fecha": "2026-09-24 21:59:26"
+  },
+  {
+    "venta_id": 2,
+    "usuario_id": "1950175750",
+    "nombre_usuario": "Gabriel Chamba",
+    "producto_id": 4,
+    "nombre_producto": "Hot Dog",
+    "precio": 1.0,
+    "fecha": "2026-09-24 21:59:37"
+  },
+  {
+    "venta_id": 3,
+    "usuario_id": "1900542016",
+    "nombre_usuario": "Matías Mejia",
+    "producto_id": 6,
+    "nombre_producto": "Pizza Hawaiana",
+    "precio": 6.0,
+    "fecha": "2026-09-24 22:00:00"
+  },
+  {
+    "venta_id": 4,
+    "usuario_id": "1104567890",
+    "nombre_usuario": "Carlos González",
+    "producto_id": 2,
+    "nombre_producto": "Hamburguesa Doble",
+    "precio": 6.5,
+    "fecha": "2026-09-30 22:51:16"
+  },
+  {
+    "venta_id": 5,
+    "usuario_id": "1109876543",
+    "nombre_usuario": "Nayely Martínez",
+    "producto_id": 5,
+    "nombre_producto": "Jugo de fresa",
+    "precio": 1.5,
+    "fecha": "2026-09-30 22:53:58"
+  }
+]
